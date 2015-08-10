@@ -1,0 +1,32 @@
+.logo {
+    height: 79px;
+    float: left;
+}
+
+div#header {
+    height: 79px;
+    margin-bottom: 33px;
+    /* background-color: fuchsia; */
+}
+
+.logoImage{
+    height: 79px;
+}
+
+.headingTitle {
+    font-family: fantasy;
+    font-size: 217%;
+    padding: 1%;
+}
+
+div.content {
+    clear: both;
+    margin-top: 33px;
+    padding: 26px;
+}
+
+div#content {
+    clear: both;
+    margin-top: 98px;
+    padding: 26px;
+}
